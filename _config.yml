@@ -60,7 +60,7 @@ plugins:
 
 # Pageviews settings
 pageviews:
-  provider: # now only supports 'goatcounter'
+  provider: 'goatcounter'
 
 # Prefer color scheme setting.
 #
@@ -212,11 +212,3 @@ jekyll-archives:
   permalinks:
     tag: /tags/:name/
     category: /categories/:name/
-
-defaults:
-  -
-    scope:
-      type: "pages" # previously `page` in Jekyll 2.2.
-    values:
-      layout: "default" # overrides previous default layout
-      author: "Richard Thomas"
