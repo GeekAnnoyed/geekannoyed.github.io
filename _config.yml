@@ -53,7 +53,7 @@ webmaster_verifications:
 # Web Analytics Settings
 analytics:
   goatcounter:
-    id: yorkshiregeek
+    id: 'yorkshiregeek'
 
 plugins:
   - jemoji
