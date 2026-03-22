@@ -1,0 +1,21 @@
+disabled = false
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "Blowfish"
+
+[params]
+displayName = "EN"
+isoCode = "en"
+rtl = false
+dateFormat = "2 January 2006"
+logo = "jkkkkk.jpg "
+secondaryLogo = "jkkkkk.jpg "
+
+["params.author"]
+name = "Richard T"
+email = "isthisspam@yorkshiregeek.co.uk"
+image = "PXL_20250615_092749370.png"
+imageQuality = "50"
+headline = "just a geek in the north"
+bio = "just a geek lost in the nerd"

@@ -1,0 +1,11 @@
+[[main]]
+none = "none"
+
+[[main]]
+name = "Projects"
+pageRef = "projects"
+identifier = "Tu7pCVMSG8"
+weight = 9_999
+
+[[footer]]
+none = "none"
