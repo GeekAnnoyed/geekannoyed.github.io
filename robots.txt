@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://yorkshiregeek.co.uk/sitemap.xml
