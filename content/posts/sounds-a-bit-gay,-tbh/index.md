@@ -56,3 +56,13 @@ or go sit with her mum, wish I had a son.
 but now she's all grown up,
 I missed out on the fun, because I wanted to be a man,
 not a dad.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+the thumbnail image 
+Photo by <a href="https://unsplash.com/@hoianphotographer?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Hoi An and Da Nang Photographer</a> on <a href="https://unsplash.com/photos/man-looks-out-at-the-ocean-with-family-on-beach-CvckrVcqZG4?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+      

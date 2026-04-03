@@ -9,7 +9,17 @@
     <managingEditor>isthisspam@yorkshiregeek.co.uk (Richard T)</managingEditor>
     <webMaster>isthisspam@yorkshiregeek.co.uk (Richard T)</webMaster>
     <copyright>© 2026 Richard T</copyright>
-    <lastBuildDate>Fri, 03 Apr 2026 14:13:13 +0100</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 03 Apr 2026 15:35:00 +0100</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Sounds a Bit Gay, to be honest</title>
+      <link>http://localhost:1313/posts/sounds-a-bit-gay-tbh/</link>
+      <pubDate>Fri, 03 Apr 2026 15:35:00 +0100</pubDate>
+      <author>isthisspam@yorkshiregeek.co.uk (Richard T)</author>
+      <guid>http://localhost:1313/posts/sounds-a-bit-gay-tbh/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/sounds-a-bit-gay-tbh/featured.png" />
+    </item>
     
     <item>
       <title>Current Projects April 2026</title>
