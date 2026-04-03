@@ -4,12 +4,13 @@ draft = false
 title = 'Sounds a Bit Gay, to be honest'
 +++
 
-I wote a poem :) 
+I wrote a poem.
 
 
 it was inspired by a bloke I knew decades ago who refused to have almost
 anything to do with his daughter as "I'm not doing that, it seems a bit gay to be honest"
-was his go to answer with regards to anything famliy or time together.
+was his go to answer with regards to anything family or time together.
+Also elements from my own Father, my role model on how *NOT* to be a worthwhile father, man and all round human being.
 
 
 {{< lead >}}
