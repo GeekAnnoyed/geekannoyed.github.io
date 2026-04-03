@@ -19,8 +19,8 @@ was his go to answer with regards to anything famliy or time together.
 
 
 >Sounds a bit gay to be honest, he said
-None of this gender-neutral shit,
-my kid will know what it is,
+none of this gender-neutral shit,
+My kid will know what it is,
 >
 >Sounds a bit gay to be honest, he said
 having to hold the kid,
@@ -34,7 +34,7 @@ you can just do it, you are better at this!
 >
 >Sounds a bit gay to be honest, he said
 You know, wearing a tiara and glitter,
-wouldn't catch me he said, I'm a real man he growled
+Wouldn't catch me he said, I'm a real man he growled
 what if the doorbell rang!
 >
 >Sounds a big gay to be honest, he said
@@ -55,7 +55,7 @@ or go sit with her mum, wish I had a son.
 >Sounds a bit gay to be honest, he said,
 but now she's all grown up,
 I missed out on the fun, because I wanted to be a man,
-not a dad.
+Not a dad.
  
  
  
