@@ -9,7 +9,17 @@
     <managingEditor>isthisspam@yorkshiregeek.co.uk (Richard T)</managingEditor>
     <webMaster>isthisspam@yorkshiregeek.co.uk (Richard T)</webMaster>
     <copyright>© 2026 Richard T</copyright>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 22 Mar 2026 15:54:28 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Helloworld</title>
+      <link>http://localhost:1313/posts/helloworld/</link>
+      <pubDate>Sun, 22 Mar 2026 15:54:28 +0000</pubDate>
+      <author>isthisspam@yorkshiregeek.co.uk (Richard T)</author>
+      <guid>http://localhost:1313/posts/helloworld/</guid>
+      <description></description>
+      
+    </item>
     
   </channel>
 </rss>
